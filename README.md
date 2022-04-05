@@ -1,2 +1,2 @@
 # Cluster-analysis-on-stock-selection
-Hierarchical Clustering
+Hierarchical Clustering using Python
